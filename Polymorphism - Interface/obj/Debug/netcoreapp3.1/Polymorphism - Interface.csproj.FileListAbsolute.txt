@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\Homeworks\Homework 10  Polymorphism - Interface\Polymorphism - Interface\Polymorphism - Interface\bin\Debug\netcoreapp3.1\Polymorphism - Interface.exe
+C:\Users\HP\Desktop\Homeworks\Homework 10  Polymorphism - Interface\Polymorphism - Interface\Polymorphism - Interface\bin\Debug\netcoreapp3.1\Polymorphism - Interface.deps.json
+C:\Users\HP\Desktop\Homeworks\Homework 10  Polymorphism - Interface\Polymorphism - Interface\Polymorphism - Interface\bin\Debug\netcoreapp3.1\Polymorphism - Interface.runtimeconfig.json
+C:\Users\HP\Desktop\Homeworks\Homework 10  Polymorphism - Interface\Polymorphism - Interface\Polymorphism - Interface\bin\Debug\netcoreapp3.1\Polymorphism - Interface.runtimeconfig.dev.json
+C:\Users\HP\Desktop\Homeworks\Homework 10  Polymorphism - Interface\Polymorphism - Interface\Polymorphism - Interface\bin\Debug\netcoreapp3.1\Polymorphism - Interface.dll
+C:\Users\HP\Desktop\Homeworks\Homework 10  Polymorphism - Interface\Polymorphism - Interface\Polymorphism - Interface\bin\Debug\netcoreapp3.1\Polymorphism - Interface.pdb
+C:\Users\HP\Desktop\Homeworks\Homework 10  Polymorphism - Interface\Polymorphism - Interface\Polymorphism - Interface\obj\Debug\netcoreapp3.1\Polymorphism - Interface.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Homeworks\Homework 10  Polymorphism - Interface\Polymorphism - Interface\Polymorphism - Interface\obj\Debug\netcoreapp3.1\Polymorphism - Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Homeworks\Homework 10  Polymorphism - Interface\Polymorphism - Interface\Polymorphism - Interface\obj\Debug\netcoreapp3.1\Polymorphism - Interface.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Homeworks\Homework 10  Polymorphism - Interface\Polymorphism - Interface\Polymorphism - Interface\obj\Debug\netcoreapp3.1\Polymorphism - Interface.AssemblyInfo.cs
+C:\Users\HP\Desktop\Homeworks\Homework 10  Polymorphism - Interface\Polymorphism - Interface\Polymorphism - Interface\obj\Debug\netcoreapp3.1\Polymorphism - Interface.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Homeworks\Homework 10  Polymorphism - Interface\Polymorphism - Interface\Polymorphism - Interface\obj\Debug\netcoreapp3.1\Polymorphism - Interface.dll
+C:\Users\HP\Desktop\Homeworks\Homework 10  Polymorphism - Interface\Polymorphism - Interface\Polymorphism - Interface\obj\Debug\netcoreapp3.1\Polymorphism - Interface.pdb
+C:\Users\HP\Desktop\Homeworks\Homework 10  Polymorphism - Interface\Polymorphism - Interface\Polymorphism - Interface\obj\Debug\netcoreapp3.1\Polymorphism - Interface.genruntimeconfig.cache
